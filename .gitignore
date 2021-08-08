@@ -1,0 +1,12 @@
+*.cfg
+lib/
+scripts/
+__pycache__/
+migrations/
+
+secret_settings.py
+
+db.sqlite3
+media/
+
+.idea/
